@@ -137,7 +137,6 @@ Next we need to add rules for the shared location. This is done with:
 sudo nano /etc/exports
 ```
 
-ssh-copy-id mzellouadmin@DEL1910W010.ign.fr
 Then adding the line:
 
 ```bash
