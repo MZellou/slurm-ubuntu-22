@@ -415,5 +415,5 @@ Troubleshoot munge
 ```bash
 echo foo | munge | unmunge
 
-echo foo | ssh DEL1910W010.ign.fr munge | unmunge
+echo foo | ssh worker@ip munge | unmunge
 ```
